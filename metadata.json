@@ -1,0 +1,7 @@
+{
+  "name": "Cofit Evolution - Next Gen Nutrition",
+  "description": "An optimized version of the Cofit nutrition app focusing on instant AI feedback, gamification, and high-engagement user loops.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
