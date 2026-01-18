@@ -104,3 +104,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1s5PPqpXRYKF9gDZGeyBdBK
 上述功能已在以下文件中初步實作：
 * `App.tsx`
 * `Dashboard.tsx
+*  https://www.canva.com/design/DAG-wD8IeJ0/4ryFH2De-YnmJKbU8vRcAg/edit?utm_content=DAG-wD8IeJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
