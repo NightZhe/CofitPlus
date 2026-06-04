@@ -1,7 +1,7 @@
 {
-  "name": "cofit-evolution---next-gen-nutrition",
+  "name": "car-plus-used-car-sales",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,12 +10,10 @@
     "start": "npx serve -s dist -l $PORT"
   },
   "dependencies": {
-    "@google/genai": "^1.37.0",
     "lucide-react": "^0.562.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "react-router-dom": "^7.16.0",
-    "recharts": "^3.6.0"
+    "react-router-dom": "^7.16.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
