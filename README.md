@@ -2,6 +2,8 @@
 
 > 沈浸式二手車銷售平台 — 用戶端全螢幕瀏覽 ✕ 商家端即時管理
 
+**GitHub：** https://github.com/NightZhe/CarSocialMedia
+
 **線上網址：** https://cofitplus-production.up.railway.app/
 
 ---
@@ -52,6 +54,10 @@ Car+ 是一個雙端二手車銷售 App，分為**用戶端**與**商家端**，
 ## 本地開發
 
 ```bash
+# Clone 專案
+git clone https://github.com/NightZhe/CarSocialMedia.git
+cd CarSocialMedia
+
 # 安裝依賴
 npm install
 
